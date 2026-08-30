@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top" width="65%">
+
 # Hi there 👋
 
 ## My Professional Skills
@@ -11,6 +15,15 @@
 🎯 Just a guy who enjoys turning ideas into intelligent, reliable systems — from APIs and infrastructure to data workflows and applied AI solutions.
 
 ⚡ If you'd like to get in touch, feel free to say hello.
+
+</td>
+<td valign="top" width="35%">
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <p>
   <a href="https://www.linkedin.com/in/alisalmeh">
